@@ -1,1 +1,7 @@
-
+File.txt
+file.txt
+hatersname.txt
+main.py
+password.txt
+time.txt
+tokennum.txt
