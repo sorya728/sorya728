@@ -1,7 +1,1 @@
-File.txt
-file.txt
-hatersname.txt
-main.py
-password.txt
-time.txt
-tokennum.txt
+100081328796178
